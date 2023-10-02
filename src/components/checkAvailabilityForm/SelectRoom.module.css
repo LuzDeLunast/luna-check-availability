@@ -1,0 +1,64 @@
+.select-room {
+  margin: 32px 0;
+}
+.select-room-title {
+  text-align: center;
+  color: #838a64;
+  font-weight: bold;
+}
+.select-room-title--arrow {
+  text-align: center;
+  display: block;
+  margin-top: 20px;
+}
+.select-room-title--arrow svg {
+  width: 28px;
+  text-align: center;
+  transform: rotate(180deg);
+}
+.options-rooms {
+  margin: 0 auto;
+  width: 80%;
+}
+.options {
+  margin: 6px 0;
+  display: flex;
+  gap: 10px;
+}
+.options input {
+  display: none;
+}
+.radio-label {
+  padding: 4px;
+  color: #838a64;
+  font-weight: bold;
+  font-family: 'museo_sans500';
+  text-align: center;
+  border: 2px solid #838a64;
+  border-radius: 20px;
+  width: 100%;
+  display: block;
+}
+.radio-label--active {
+  background-color: #838a64;
+  color: white;
+  padding: 4px;
+  font-weight: bold;
+  font-family: 'museo_sans500';
+  text-align: center;
+  border: 2px solid #a1ab78;
+  border-radius: 20px;
+  width: 100%;
+  display: block;
+}
+.options-each-room-wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 2fr);
+  column-gap: 12px;
+}
+@media (min-width: 768px) {
+  .options-rooms {
+    margin: 0 auto;
+    width: 40%;
+  }
+}

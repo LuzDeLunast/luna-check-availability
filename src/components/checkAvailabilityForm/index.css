@@ -1,0 +1,120 @@
+.check_availability .tile-check_availability {
+  text-align: center;
+  color: #848b65;
+  font-size: 38px;
+  font-weight: bold;
+  text-decoration: underline;
+  padding-left: 0;
+}
+.check_availability .react-calendar {
+  max-width: 100%;
+  background: #a1ab78;
+  border: 3px solid #889166;
+  font-family: Arial, Helvetica, sans-serif;
+  border-radius: 32px;
+  line-height: 1.125em;
+  overflow: hidden;
+  padding: 0 10px;
+  width: 315px;
+  margin: 0 auto;
+}
+.check_availability .react-calendar__navigation button:disabled {
+  opacity: 0.5;
+  background-color: transparent;
+}
+.check_availability .react-calendar__navigation button:enabled:hover,
+.check_availability .react-calendar__navigation button:enabled:focus {
+  background-color: transparent;
+}
+.check_availability .react-calendar__navigation button:enabled:hover,
+.check_availability .react-calendar__navigation button:enabled:focus {
+  background-color: transparent;
+}
+.check_availability .react-calendar__year-view .react-calendar__tile:disabled,
+.check_availability
+  .react-calendar__decade-view__years
+  .react-calendar__tile:disabled,
+.check_availability
+  .react-calendar__century-view__decades
+  .react-calendar__tile:disabled {
+  background-color: transparent;
+  opacity: 0.5;
+}
+.check_availability .react-calendar__navigation__label,
+.check_availability .react-calendar__month-view,
+.check_availability .react-calendar__month-view .react-calendar__tile {
+  color: white;
+  font-weight: bold;
+}
+.check_availability .react-calendar__month-view .react-calendar__tile:disabled {
+  background-color: transparent;
+  color: rgb(80, 80, 80);
+  opacity: 0.3;
+}
+.check_availability
+  .react-calendar__tile.react-calendar__month-view__days__day.react-calendar__month-view__days__day--neighboringMonth {
+  color: rgb(80, 80, 80);
+}
+.check_availability .react-daterange-picker {
+  display: block;
+  position: relative;
+  font-family: 'museo_sans500';
+  color: #a0a979;
+  margin-top: 24px;
+}
+.check_availability .react-daterange-picker__wrapper {
+  flex-direction: column;
+  row-gap: 10px;
+  border: none;
+}
+.check_availability .react-daterange-picker__inputGroup {
+  width: 55%;
+  font-size: 18px;
+  font-weight: bold;
+  color: #a0a979;
+  border: 5px solid #a0a979;
+  border-radius: 20px;
+  text-align: center;
+  font-family: 'museo_sans500';
+}
+.react-date-picker__inputGroup__divider {
+  margin: 0 14px;
+  position: relative;
+  color: transparent;
+}
+.react-date-picker__inputGroup__divider::before {
+  content: ' ';
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 23.56 17.98'%3E%3Cdefs%3E%3Cstyle%3E.cls-1%7Bfill:none;stroke:%23a2aa79;stroke-linecap:round;stroke-miterlimit:10;stroke-width:3px;%7D%3C/style%3E%3C/defs%3E%3Cg id='Capa_2' data-name='Capa 2'%3E%3Cg id='WEB_DISEÑO' data-name='WEB DISEÑO'%3E%3Cpolyline class='cls-1' points='1.5 16.48 11.78 8.75 11.78 8.75'/%3E%3Cpolyline class='cls-1' points='22.06 16.48 11.78 8.75 11.78 8.75'/%3E%3Cpolyline class='cls-1' points='1.5 9.23 11.78 1.5 11.78 1.5'/%3E%3Cpolyline class='cls-1' points='22.06 9.23 11.78 1.5 11.78 1.5'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  position: absolute;
+  width: 13px;
+  height: 13px;
+  top: 2px;
+  left: 0;
+  text-align: center;
+  transform: rotate(180deg);
+}
+.react-daterange-picker__range-divider {
+  font-family: 'museo_sans500';
+  color: #a0a979;
+}
+.check_availability-wrapper {
+  display: flex;
+  justify-content: center;
+
+}
+[type='submit'].check_availability-submit {
+  text-decoration: none;
+  text-align: center;
+  background-color: #a2aa79;
+  color: white;
+  font-weight: bold;
+  padding: 8px 24px;
+  cursor: pointer;
+  font-size: 14px;
+  border-radius: 28px;
+  border: 2px solid #888b68;
+}
+.loading-calendar {
+  margin: auto;
+}

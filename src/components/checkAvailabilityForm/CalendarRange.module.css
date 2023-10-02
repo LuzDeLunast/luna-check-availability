@@ -1,0 +1,105 @@
+.calendar-range-wrapper {
+  margin-top: 24px;
+}
+.calendar-range {
+  margin-top: 20px;
+}
+.calendar-range-title {
+  text-align: center;
+  color: #838a64;
+  font-weight: bold;
+}
+.calendar-range-title--arrow {
+  text-align: center;
+  display: block;
+  margin-top: 20px;
+}
+.calendar-range-title--arrow svg {
+  width: 28px;
+  text-align: center;
+  transform: rotate(180deg);
+}
+.calendar-range-inputs {
+  position: relative;
+  padding: 24px 0;
+}
+.calendar-range-inputs--indicator-input {
+  font-family: 'museo_sans500';
+  color: #a0a979;
+  position: absolute;
+  font-size: 16px !important;
+  margin: 0 !important;
+}
+.calendar-range-inputs--indicator-output {
+  font-family: 'museo_sans500';
+  color: #a0a979;
+  position: absolute;
+  font-size: 16px !important;
+  bottom: -5px;
+  right: 10px;
+  margin: 0;
+}
+.calendar-range-summary {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: 0 auto;
+  margin-top: 38px;
+}
+.calendar-range-summary div {
+  max-width: 90px;
+  min-width: 80px;
+}
+
+.calendar-range-separator {
+  width: 10%;
+}
+.calendar-range-summary--arrow {
+  width: 20px;
+  display: block;
+  margin: 0 auto;
+}
+.calendar-range-summary h3 {
+  border-bottom: 4px #a4ac7e solid;
+  text-align: center;
+  color: #a0a97c;
+  font-size: 12px;
+  font-weight: bold;
+}
+.calendar-range-summary h4 {
+  text-align: center;
+  color: #858a6b;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: bold;
+}
+.calendar-range-summary h3,
+.calendar-range-summary h4 {
+  margin: 0 !important;
+  padding: 4px !important;
+  font-family: 'museo_sans500';
+}
+@media (min-width: 768px) {
+  .calendar-range-inputs {
+    width: 50%;
+    margin: 0 auto;
+  }
+  .calendar-range-inputs--indicator-input {
+    font-size: 20px;
+    /* left: -10px; */
+  }
+  .calendar-range-inputs--indicator-output {
+    font-size: 20px;
+    right: 15px;
+  }
+  .calendar-range-summary {
+    width: 40%;
+  }
+  .calendar-range-summary h3 {
+    font-size: 14px;
+  }
+  .calendar-range-summary h4 {
+    font-size: 16px;
+  }
+}

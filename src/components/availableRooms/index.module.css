@@ -1,0 +1,20 @@
+.available-title {
+  text-align: center;
+  color: #889166;
+  font-weight: bold;
+}
+.available-title--arrow {
+  text-align: center;
+  display: block;
+  margin-top: 20px;
+}
+.available-title--arrow svg {
+  width: 28px;
+  text-align: center;
+  transform: rotate(180deg);
+}
+.norooms {
+  font-family: 'museo_sans500';
+  color: #9ca679;
+  text-align: center;
+}

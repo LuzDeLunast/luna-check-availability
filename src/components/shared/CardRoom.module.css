@@ -1,0 +1,249 @@
+.room-card-wrapper {
+  display: flex;
+  margin-top: 20px;
+  justify-content: center;
+}
+
+.room-card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  flex-direction: column;
+  max-width: 250px;
+  min-width: 234px;
+  width: 100%;
+}
+
+.room-card-number {
+  text-align: center;
+}
+
+.room-card-number span {
+  color: #869067;
+  font-size: 20px;
+  font-weight: bold;
+  border: 4px solid #a1a97a;
+  border-radius: 50%;
+  padding: 2px 8px;
+}
+
+.room-card-heading {
+  color: #869067;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.room-card-body {
+  background-color: #868c66;
+  border-radius: 40px;
+  border: 4px solid #a3ab79;
+  width: 100%;
+  padding-bottom: 5px;
+}
+
+.room-card-illustration {
+  border-radius: 18px;
+  height: 230px;
+  background: var(--bg) no-repeat;
+  background-size: cover;
+}
+
+.room-card-features {
+  padding: 10px 10px 22px 10px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  gap: 8px;
+  max-height: 160px;
+}
+
+.room-card-features li {
+  display: flex;
+  align-items: flex-end;
+  gap: 6px;
+}
+
+.room-card-features li h4 {
+  font-size: 12px;
+  color: #fcfbd5;
+  font-weight: bold;
+}
+
+.room-card-features li h4 span {
+  font-size: 18px;
+  padding-left: 1px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.room-card-features svg {
+  width: 30px;
+  height: 30px;
+}
+
+.room-card-footer {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 20px 0;
+}
+
+.room-card-footer .quick-links-see-more {
+  text-decoration: none;
+  color: #888b68;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: -8px;
+  text-align: center;
+  position: relative;
+}
+
+.room-card-footer .quick-links-see-more::after {
+  content: '';
+  /* background: url(../../icons/general/cta.svg) no-repeat; */
+  width: 18px;
+  height: 18px;
+  top: 2px;
+  position: absolute;
+  right: 40px;
+  transform: rotate(90deg);
+}
+
+.room-card-footer .quick-link-check-availability {
+  text-decoration: none;
+  text-align: center;
+  background-color: #a2aa79;
+  color: white;
+  font-weight: bold;
+  padding: 12px 24px;
+  font-size: 18px;
+  border-radius: 28px;
+  border: 2px solid #888b68;
+}
+
+@media screen and (min-width: 768px) {
+  .room-card-number span {
+    font-size: 18px;
+  }
+
+  .room-card-heading {
+    font-size: 26px;
+  }
+
+  .room-card-body {
+    padding-bottom: 5px;
+  }
+
+  .room-card-features {
+    padding: 14px 10px 14px 20px;
+    gap: 8px;
+    max-height: 130px;
+  }
+
+  .room-card-features li {
+    gap: 4px;
+  }
+
+  .room-card-features li h4 {
+    font-size: 11px;
+  }
+
+  .room-card-features li h4 span {
+    font-size: 16px;
+    padding-left: 1px;
+  }
+
+  .room-card-features svg {
+    width: 24px;
+    height: 24px;
+  }
+
+  .room-card-footer {
+    gap: 10px;
+    padding: 20px 0;
+  }
+
+  .room-card-footer .quick-links-see-more {
+    font-size: 16px;
+  }
+
+  .room-card-footer .quick-links-see-more::after {
+    width: 14px;
+    height: 14px;
+    top: 4px;
+    right: 25px;
+  }
+
+  .room-card-footer .quick-link-check-availability {
+    padding: 12px 24px;
+    font-size: 14px;
+  }
+}
+
+.room-card-illustration .cls-1 {
+  fill: rgb(161, 171, 122);
+}
+
+.room-card-illustration .cls-2 {
+  fill: none;
+  stroke: rgb(161, 171, 122);
+  stroke-linecap: round;
+  stroke-miterlimit: 10;
+  stroke-width: 3px;
+}
+
+.max .cls-1 {
+  fill: #fcfbd5;
+}
+
+.fan .cls-1 {
+  fill: #fcfbd5;
+}
+
+.refrigerator .cls-1 {
+  fill: #faf8d3;
+}
+
+.Wifi .cls-1 {
+  fill: #faf8d3;
+}
+
+.bathroom .cls-1 {
+  fill: #faf8d3;
+}
+
+.kitchen .cls-1 {
+  fill: #faf8d3;
+}
+
+.carrousel-swipe {
+  display: flex;
+  overflow-x: auto;
+  gap: 20px;
+  scroll-snap-type: both mandatory;
+}
+
+.cls-3 {
+  fill: #868c66;
+}
+
+.cls-4 {
+  fill: #868c66;
+}
+
+.carrousel-swipe-one-item {
+  display: flex;
+  overflow-x: auto;
+  justify-content: center;
+  gap: 20px;
+  scroll-snap-type: both mandatory;
+}
+
+@media screen and (min-width: 1024px) {
+  .carrousel-swipe {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 20px;
+  }
+}

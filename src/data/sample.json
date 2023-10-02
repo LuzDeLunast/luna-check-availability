@@ -1,0 +1,495 @@
+{
+  "#1": {
+    "bg": "/assets/fotos-hotel/cabine1/IMG_5991.webp",
+    "name": "Room #1",
+    "num": "1",
+    "max-persons": 2,
+    "description-en": "This accommodation features a room for two people which includes a double bed and a private bathroom. Additionally, it has a terrace with a comfortable hammock and a ceiling fan for greater comfort. It also has a mini refrigerator to store your drinks and fresh food during your stay.",
+    "description-es": "Este alojamiento cuenta con una habitación para dos personas que incluye una cama matrimonial y un baño privado. Además, tiene una terraza con una cómoda hamaca y un ventilador de techo para mayor comodidad. También dispone de un mini refrigerador para almacenar tus bebidas y alimentos frescos durante tu estancia.",
+    "description-fr": "Cet hébergement dispose d'une chambre pour deux personnes comprenant un lit double et une salle de bain privée. De plus, il dispose d'une terrasse avec un hamac confortable et un ventilateur de plafond pour plus de confort. Il dispose également d'un mini-réfrigérateur pour stocker vos boissons et aliments frais pendant votre séjour.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": true,
+    "air-Conditioner": false,
+    "fan": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 120
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "fed": 105,
+      "mar": 105,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 120
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "may": 78,
+      "jun": 78,
+      "jul": 90,
+      "agust": 90,
+      "sep": 78,
+      "oct": 78,
+      "nov": 90,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 120
+        },
+        "low": {
+          "$": 90
+        }
+      }
+    }
+  },
+  "#2": {
+    "bg": "/assets/fotos-hotel/cabine2/IMG_1510.webp",
+    "name": "Room #2",
+    "num": 2,
+    "max-persons": 3,
+    "description-en": "This accommodation features a room for two people with a double bed and a private bathroom. Additionally, there is a terrace with a comfortable hammock and a ceiling fan. There is also a mini fridge available.",
+    "description-es": "Este alojamiento cuenta con una habitación para dos personas con una cama matrimonial y baño privado. Además, hay una terraza con una hamaca cómoda y un ventilador de techo. También hay un mini refrigerador disponible.",
+    "description-fr": "Cet hébergement dispose d'une chambre pour deux personnes avec un lit double et une salle de bain privée. De plus, il y a une terrasse avec un hamac confortable et un ventilateur de plafond. Il y a aussi un mini réfrigérateur disponible.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 1,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": true,
+    "air-Conditioner": false,
+    "fan": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 145
+        },
+        "low": {
+          "$": 115
+        }
+      },
+      "fed": 115,
+      "mar": 115,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 145
+        },
+        "low": {
+          "$": 115
+        }
+      },
+      "may": 85,
+      "jun": 85,
+      "jul": 100,
+      "agust": 100,
+      "sep": 85,
+      "oct": 85,
+      "nov": 100,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 145
+        },
+        "low": {
+          "$": 100
+        }
+      }
+    }
+  },
+  "#3": {
+    "bg": "/assets/fotos-hotel/cabine3/IMG_1485.webp",
+    "name": "Room #3",
+    "num": 3,
+    "max-persons": 2,
+    "description-en": "This accommodation features a room for two people with a double bed and a private bathroom. Additionally, there is a terrace with a comfortable hammock and a ceiling fan. There is also a mini fridge available.",
+    "description-es": "Este alojamiento cuenta con una habitación para dos personas con una cama matrimonial y baño privado. Además, hay una terraza con una hamaca cómoda y un ventilador de techo. También hay un mini refrigerador disponible.",
+    "description-fr": "Cet hébergement dispose d'une chambre pour deux personnes avec un lit double et une salle de bain privée. De plus, il y a une terrasse avec un hamac confortable et un ventilateur de plafond. Il y a aussi un mini réfrigérateur disponible.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": true,
+    "air-Conditioner": false,
+    "fan": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 120
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "fed": 105,
+      "mar": 105,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 120
+        },
+        "low": {
+          "$": 105
+        }
+      },
+      "may": 78,
+      "jun": 78,
+      "jul": 90,
+      "agust": 90,
+      "sep": 78,
+      "oct": 78,
+      "nov": 90,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 120
+        },
+        "low": {
+          "$": 90
+        }
+      }
+    }
+  },
+  "#4": {
+    "bg": "/assets/fotos-hotel/cabine4/IMG_2464.webp",
+    "name": "Bungalow #4",
+    "num": 4,
+    "max-persons": 4,
+    "description-en": "This accommodation is an open space for four people, with a double bed in the mezzanine and two single beds, private bathroom, equipped kitchen, terrace with a hammock and ceiling fan.",
+    "description-es": "Este alojamiento es un espacio abierto para cuatro personas, cuenta con una cama matrimonial en la mezanine y dos camas sencillas, baño privado, cocina equipada, terraza con hamaca y ventilador de techo.",
+    "description-fr": "Cet hébergement est un espace ouvert pour quatre personnes, avec un lit double en mezzanine et deux lits simples, salle de bain privée, cuisine équipée, terrasse avec hamac et ventilateur de plafond.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": true,
+      "private-room": false
+    },
+    "bed-S": 2,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": false,
+    "kitchen": true,
+    "fan": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "fed": 150,
+      "mar": 150,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "may": 98,
+      "jun": 98,
+      "jul": 118,
+      "agust": 118,
+      "sep": 98,
+      "oct": 98,
+      "nov": 118,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 200
+        },
+        "low": {
+          "$": 118
+        }
+      }
+    }
+  },
+  "#5": {
+    "bg": "/assets/fotos-hotel/cabine5/IMG_0158.jpg",
+    "name": "Bungalow #5",
+    "num": "5",
+    "max-persons": 2,
+    "description-en": "This accommodation is an open space for two people, with a double bed, private bathroom, equipped kitchen, terrace with a hammock and ceiling fan.",
+    "description-es": "Este alojamiento es un espacio abierto para dos personas, cuenta con una cama matrimonial, baño privado, cocina equipada, terraza con hamaca y ventilador de techo.",
+    "description-fr": "Cet hébergement est un espace ouvert pour deux personnes, avec un lit double, salle de bain privée, cuisine équipée, terrasse avec hamac et ventilateur de plafond.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": false,
+    "kitchen": true,
+    "fan": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 165
+        },
+        "low": {
+          "$": 130
+        }
+      },
+      "fed": 130,
+      "mar": 130,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 165
+        },
+        "low": {
+          "$": 130
+        }
+      },
+      "may": 90,
+      "jun": 90,
+      "jul": 114,
+      "agust": 114,
+      "sep": 90,
+      "oct": 90,
+      "nov": 114,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 165
+        },
+        "low": {
+          "$": 114
+        }
+      }
+    }
+  },
+  "#6": {
+    "bg": "/assets/fotos-hotel/cabine5/IMG_0158.jpg",
+    "name": "Bungalow #6",
+    "num": 6,
+    "max-persons": 4,
+    "description-en": "Accommodation for 4 people with a private bedroom featuring a double bed and two single beds in the common area. Additionally, there is a private bathroom, equipped kitchen, a terrace with a hammock, and a ceiling fan.",
+    "description-es": " El alojamiento tiene capacidad para 4 personas y consta de una habitación privada con una cama de matrimonio, así como de dos camas individuales en el espacio común. También cuenta con un baño privado, cocina equipada, una terraza con hamaca y ventilador de techo.",
+    "description-fr": "L'hébergement peut accueillir 4 personnes et se compose d'une chambre privée avec un lit double, ainsi que de deux lits simples dans l'espace commun. Il dispose également d'une salle de bain privée, d'une cuisine équipée, d'une terrasse avec un hamac et d'un ventilateur de plafond.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": true
+    },
+    "bed-S": 2,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": false,
+    "kitchen": true,
+    "fan": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "fed": 150,
+      "mar": 150,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 200
+        },
+        "low": {
+          "$": 150
+        }
+      },
+      "may": 98,
+      "jun": 98,
+      "jul": 118,
+      "agust": 118,
+      "sep": 98,
+      "oct": 98,
+      "nov": 118,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 200
+        },
+        "low": {
+          "$": 118
+        }
+      }
+    }
+  },
+  "#7": {
+    "bg": "/assets/fotos-hotel/cabine7/IMG_1466.jpg",
+    "name": "Bungalow #7",
+    "num": 7,
+    "max-persons": 3,
+    "description-en": "Accommodation for 2 people with a double bed in the common area. Additionally, there is a private bathroom, equipped kitchen, a terrace with a hammock, ceiling fan, and air conditioning.",
+    "description-es": "El alojamiento tiene capacidad para 2 personas y consta de una cama matrimonial en el espacio común. Además, cuenta con un baño privado, cocina equipada, una terraza con hamaca, ventilador de techo y aire acondicionado.",
+    "description-fr": "L'hébergement peut accueillir 2 personnes et se compose d'un lit double dans l'espace commun. Il dispose également d'une salle de bain privée, d'une cuisine équipée, d'une terrasse avec un hamac, d'un ventilateur de plafond et de la climatisation.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 1,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": true,
+    "kitchen": true,
+    "fan": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 250
+        },
+        "low": {
+          "$": 190
+        }
+      },
+      "fed": 190,
+      "mar": 190,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 250
+        },
+        "low": {
+          "$": 190
+        }
+      },
+      "may": 130,
+      "jun": 130,
+      "jul": 150,
+      "agust": 150,
+      "sep": 130,
+      "oct": 130,
+      "nov": 150,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 250
+        },
+        "low": {
+          "$": 150
+        }
+      }
+    }
+  },
+  "#8": {
+    "bg": "/assets/fotos-hotel/cabine8/6.jpg",
+    "name": "Bungalow #8",
+    "num": 8,
+    "max-persons": 2,
+    "description-en": "This accommodation features a room for two people which includes a double bed and a private bathroom. Additionally, it has a terrace with a comfortable hammock and a ceiling fan for greater comfort. It also has a mini refrigerator to store your drinks and fresh food during your stay.",
+    "description-es": "Este alojamiento cuenta con una habitación para dos personas que incluye una cama matrimonial y un baño privado. Además, tiene una terraza con una cómoda hamaca y un ventilador de techo para mayor comodidad. También dispone de un mini refrigerador para almacenar tus bebidas y alimentos frescos durante tu estancia.",
+    "description-fr": "Cet hébergement dispose d'une chambre pour deux personnes comprenant un lit double et une salle de bain privée. De plus, il dispose d'une terrasse avec un hamac confortable et un ventilateur de plafond pour plus de confort. Il dispose également d'un mini-réfrigérateur pour stocker vos boissons et aliments frais pendant votre séjour.",
+    "bed-L": {
+      "count": 1,
+      "mezanine": false,
+      "private-room": false
+    },
+    "bed-S": 0,
+    "bathroom-private": true,
+    "terrace-dnd-hammock": true,
+    "mini-refrigerator": false,
+    "air-Conditioner": true,
+    "fan": true,
+    "kitchen": true,
+    "price": {
+      "jan": {
+        "high": {
+          "startDay": 1,
+          "endDay": 5,
+          "$": 230
+        },
+        "low": {
+          "$": 180
+        }
+      },
+      "fed": 180,
+      "mar": 180,
+      "apr": {
+        "high": {
+          "startDay": 2,
+          "endDay": 8,
+          "$": 230
+        },
+        "low": {
+          "$": 180
+        }
+      },
+      "may": 110,
+      "jun": 110,
+      "jul": 138,
+      "agust": 138,
+      "sep": 110,
+      "oct": 110,
+      "nov": 138,
+      "dec": {
+        "high": {
+          "startDay": 23,
+          "endDay": 31,
+          "$": 230
+        },
+        "low": {
+          "$": 138
+        }
+      }
+    }
+  }
+}

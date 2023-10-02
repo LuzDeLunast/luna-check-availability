@@ -1,0 +1,66 @@
+{
+  "en": {
+    "translation": {
+      "Check availability": "Check availability",
+      "Arrival": "Arrival",
+      "Departure": "Departure",
+      "Any": "Any",
+      "Room": "Room",
+      "Available rooms": "Available rooms",
+      "Select room": "Select room",
+      "Selected room": "Selected room",
+      "Fan": "Fan",
+      "Refrigerator": "Refrigerator",
+      "Private bathroom": "Private <br /> bathroom",
+      "Kitchen": "Kitchen",
+      "Air conditioner": "Air <br /> conditioner",
+      "no rooms": "At the moment, we do not have any available rooms.",
+      "Congratulations, the room you selected is available!": "Congratulations, the room you selected is available!",
+      "At the moment, the room you have selected is not available.": "At the moment, the room you have selected is not available.",
+      "But we have found other available rooms:": "But we have found other available rooms:"
+    }
+  },
+
+  "es": {
+    "translation": {
+      "Check availability": "Verificar disponibilidad",
+      "Arrival": "Llegada",
+      "Departure": "Salida",
+      "Any": "Cualquiera",
+      "Room": "Habitación",
+      "Available rooms": "Habitaciones disponibles",
+      "Select room": "Seleccione la Habitación",
+      "Selected room": "Habitación seleccionada",
+      "Fan": "Ventilador",
+      "Refrigerator": "Refrigerador",
+      "Private bathroom": "Baño <br /> privado",
+      "Kitchen": "Cocina",
+      "Air conditioner": "Aire <br /> condicionado",
+      "no rooms": " En este momento no contamos con habitaciones disponibles.",
+      "Congratulations, the room you selected is available!": "En hora buena, La habitación que se seleccionó está disponible!",
+      "At the moment, the room you have selected is not available.": "En este momento no tenemos disponible la habitación que se ha seleccionado.",
+      "But we have found other available rooms:": "Pero contactamos con otras habitaciones disponibles:"
+    }
+  },
+  "fr": {
+    "translation": {
+      "Check availability": "Vérifier la disponibilité",
+      "Arrival": "Arrivée",
+      "Departure": "Départ",
+      "Any": "Tout",
+      "Room": "Chambre",
+      "Available rooms": "Chambres disponibles",
+      "Select room": "Sélectionnez la Chambre",
+      "Selected room": "Chambre sélectionnée",
+      "Fan": "Ventilateur",
+      "Refrigerator": "Réfrigérateur",
+      "Private bathroom": "Salle de <br /> bain privée",
+      "Kitchen": "Cuisine",
+      "Air conditioner": "Climatiseur",
+      "no rooms": "Nous n'avons actuellement pas de chambres disponibles.",
+      "Congratulations, the room you selected is available!": "Félicitations, la chambre que vous avez sélectionnée est disponible !",
+      "At the moment, the room you have selected is not available.": "Pour le moment, la chambre que vous avez sélectionnée n'est pas disponible.",
+      "But we have found other available rooms:": "Mais nous avons trouvé d'autres chambres disponibles:"
+    }
+  }
+}
