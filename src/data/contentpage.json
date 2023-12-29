@@ -3,7 +3,7 @@
     "translation": {
       "Check availability": "Check availability",
       "Arrival": "Arrival",
-      "Departure": "Departure",
+      "Departure": "Last night",
       "Any": "Any",
       "Room": "Room",
       "Available rooms": "Available rooms",
@@ -17,7 +17,8 @@
       "no rooms": "At the moment, we do not have any available rooms.",
       "Congratulations, the room you selected is available!": "Congratulations, the room you selected is available!",
       "At the moment, the room you have selected is not available.": "At the moment, the room you have selected is not available.",
-      "But we have found other available rooms:": "But we have found other available rooms:"
+      "But we have found other available rooms:": "But we have found other available rooms:",
+      "Book": "Book"
     }
   },
 
@@ -25,7 +26,7 @@
     "translation": {
       "Check availability": "Verificar disponibilidad",
       "Arrival": "Llegada",
-      "Departure": "Salida",
+      "Departure": "Última noche",
       "Any": "Cualquiera",
       "Room": "Habitación",
       "Available rooms": "Habitaciones disponibles",
@@ -39,14 +40,15 @@
       "no rooms": " En este momento no contamos con habitaciones disponibles.",
       "Congratulations, the room you selected is available!": "En hora buena, La habitación que se seleccionó está disponible!",
       "At the moment, the room you have selected is not available.": "En este momento no tenemos disponible la habitación que se ha seleccionado.",
-      "But we have found other available rooms:": "Pero contactamos con otras habitaciones disponibles:"
+      "But we have found other available rooms:": "Pero contactamos con otras habitaciones disponibles:",
+      "Book": "Reservar"
     }
   },
   "fr": {
     "translation": {
       "Check availability": "Vérifier la disponibilité",
       "Arrival": "Arrivée",
-      "Departure": "Départ",
+      "Departure": "La nuit dernière",
       "Any": "Tout",
       "Room": "Chambre",
       "Available rooms": "Chambres disponibles",
@@ -60,7 +62,8 @@
       "no rooms": "Nous n'avons actuellement pas de chambres disponibles.",
       "Congratulations, the room you selected is available!": "Félicitations, la chambre que vous avez sélectionnée est disponible !",
       "At the moment, the room you have selected is not available.": "Pour le moment, la chambre que vous avez sélectionnée n'est pas disponible.",
-      "But we have found other available rooms:": "Mais nous avons trouvé d'autres chambres disponibles:"
+      "But we have found other available rooms:": "Mais nous avons trouvé d'autres chambres disponibles:",
+      "Book": "Réserver"
     }
   }
 }
